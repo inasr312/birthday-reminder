@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inasr312/birthday-reminder.git/static/css/main.deade379.chunk.css",
+    "main.js": "/inasr312/birthday-reminder.git/static/js/main.185a7eda.chunk.js",
+    "main.js.map": "/inasr312/birthday-reminder.git/static/js/main.185a7eda.chunk.js.map",
+    "runtime-main.js": "/inasr312/birthday-reminder.git/static/js/runtime-main.493b9862.js",
+    "runtime-main.js.map": "/inasr312/birthday-reminder.git/static/js/runtime-main.493b9862.js.map",
+    "static/js/2.d21ccef6.chunk.js": "/inasr312/birthday-reminder.git/static/js/2.d21ccef6.chunk.js",
+    "static/js/2.d21ccef6.chunk.js.map": "/inasr312/birthday-reminder.git/static/js/2.d21ccef6.chunk.js.map",
+    "static/js/3.785b878e.chunk.js": "/inasr312/birthday-reminder.git/static/js/3.785b878e.chunk.js",
+    "static/js/3.785b878e.chunk.js.map": "/inasr312/birthday-reminder.git/static/js/3.785b878e.chunk.js.map",
+    "index.html": "/inasr312/birthday-reminder.git/index.html",
+    "static/css/main.deade379.chunk.css.map": "/inasr312/birthday-reminder.git/static/css/main.deade379.chunk.css.map",
+    "static/js/2.d21ccef6.chunk.js.LICENSE.txt": "/inasr312/birthday-reminder.git/static/js/2.d21ccef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493b9862.js",
+    "static/js/2.d21ccef6.chunk.js",
+    "static/css/main.deade379.chunk.css",
+    "static/js/main.185a7eda.chunk.js"
+  ]
+}
